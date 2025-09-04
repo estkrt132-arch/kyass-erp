@@ -1,0 +1,11 @@
+{
+  "2025-09": {
+    "orgu": {
+      "1": { "kyass": 120, "simliss": 50 },
+      "2": { "kyass": 80, "simliss": 60 }
+    },
+    "dikim": {
+      "1": { "kyass_dikim": 30, "ayteks_dikim": 20 }
+    }
+  }
+}
